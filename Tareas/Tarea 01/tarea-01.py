@@ -1,4 +1,4 @@
-# Tarea 1 - Curso Python Profe Luchín.
+# Tarea 01 - Curso Python - Profe Luchín.
 
 print("Ingrese su edad actual:")
 entrada_edad_actual = input()
